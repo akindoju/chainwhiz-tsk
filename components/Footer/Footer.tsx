@@ -18,7 +18,6 @@ export const Footer: React.FC = () => {
       color={"white"}
       padding={["80px 0", "50px 0", "80px 0"]}
       position={"relative"}
-      paddingTop={120}
     >
       <Flex
         marginTop={-63}
@@ -28,6 +27,7 @@ export const Footer: React.FC = () => {
         alignItems={"flex-start"}
         justifyContent={"flex-start"}
         marginLeft={"5%"}
+        className={footer.descContainer}
       >
         <Box>
           <Image src={logo} width={"246px"} height={"131px"} />
@@ -54,6 +54,7 @@ export const Footer: React.FC = () => {
         width={["100%", "100%", "50%"]}
         marginTop={["10", "10", "0"]}
         marginBottom={["5", "5", "0"]}
+        className={footer.textContainer}
       >
         <Flex
           direction={"column"}
@@ -132,8 +133,8 @@ export const Footer: React.FC = () => {
           width={["50%", "50%", "40%"]}
           className={footer.socials}
         >
-          <Box height={"200px"} className={footer.footerImage}>
-            <Image src={footerImage} />
+          <Box height={"180px"} className={footer.footerImage}>
+            <Image src={footerImage} alt="footerImage" />
           </Box>
 
           <Flex width={"90%"} justifyContent={"space-between"}>

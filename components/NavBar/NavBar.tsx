@@ -21,6 +21,7 @@ export const NavBar: React.FC = () => {
       position={"sticky"}
       zIndex={100}
       top={0}
+      className={navBar.navBar}
     >
       <Image
         src={logo}
@@ -28,6 +29,8 @@ export const NavBar: React.FC = () => {
         height={"131px"}
         objectFit={"cover"}
         style={{ marginLeft: "1vw" }}
+        className={navBar.logo}
+        alt="chainwhiz logo"
       />
       <svg
         className={navBar.menu}
@@ -37,6 +40,7 @@ export const NavBar: React.FC = () => {
         height="24"
         viewBox="0 0 24 24"
         onClick={() => setIsMenuBarClicked((currentState) => !currentState)}
+        data-testid="menuBar"
       >
         <title>menu</title>
         <path d="M3 6h18v2.016h-18v-2.016zM3 12.984v-1.969h18v1.969h-18zM3 18v-2.016h18v2.016h-18z"></path>
@@ -53,9 +57,10 @@ export const NavBar: React.FC = () => {
           fontSize={"16.5px"}
           fontWeight={300}
           letterSpacing={"0.3px"}
-          width={"100%"}
+          width={["100%", "100%", "150%", "100%"]}
           paddingTop={"15px"}
           justifyContent={"space-around"}
+          className={navBar.linkContainer}
         >
           <Text>
             <Link href="https://app.chainwhiz.app/post">

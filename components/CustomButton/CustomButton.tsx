@@ -26,6 +26,7 @@ export const CustomButton: React.FC<{
         fontSize={"18px"}
         fontWeight={600}
         _hover={hover}
+        _focus={{ outline: "none" }}
       >
         {text}
       </Button>

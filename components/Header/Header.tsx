@@ -21,17 +21,18 @@ export const Header: React.FC = () => {
     >
       <Text
         color={variables.primaryColor}
-        fontSize={["20px", "18px", "20px", "25px"]}
+        fontSize={"55px"}
         fontWeight={700}
+        className={header.topText}
       >
         Kickstart Your Journey in Web3
       </Text>
       <Text
         color={"white"}
-        fontSize={["13px", "18px", "20px", "25px"]}
+        fontSize={"25px"}
         fontWeight={500}
         lineHeight={"5.5vh"}
-        className={header.subText}
+        className={header.middleText}
       >
         Discover Bounties. Contribute to your favorite DAOs and Protocols. Earn
         in Crypto.
@@ -74,15 +75,19 @@ export const Header: React.FC = () => {
       </Flex>
       <Text
         color={"white"}
-        fontSize={["13px", "18px", "20px", "25px"]}
+        fontSize={"20px"}
         fontWeight={300}
         textAlign={"center"}
         fontStyle={"italic"}
+        className={header.bottomText}
+        role="dialog"
       >
         The mainnet is still a new product milestone. Report bugs and any
         improvements in our{" "}
         <span style={{ color: `${variables.primaryColor}` }}>
-          <Link href="https://discord.com/invite/NjxUxWAfuz">Discord</Link>
+          <Link href="https://discord.com/invite/NjxUxWAfuz">
+            <a>Discord</a>
+          </Link>
         </span>
       </Text>
     </Flex>
