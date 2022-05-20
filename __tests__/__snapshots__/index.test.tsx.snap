@@ -1,0 +1,1058 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home matches snapshot 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="css-1b6n4o1"
+  >
+    <div
+      className="navBar css-16b4s10"
+    >
+      <span
+        style={
+          Object {
+            "background": "none",
+            "border": 0,
+            "boxSizing": "border-box",
+            "display": "inline-block",
+            "height": "initial",
+            "margin": 0,
+            "maxWidth": "100%",
+            "opacity": 1,
+            "overflow": "hidden",
+            "padding": 0,
+            "position": "relative",
+            "width": "initial",
+          }
+        }
+      >
+        <span
+          style={
+            Object {
+              "background": "none",
+              "border": 0,
+              "boxSizing": "border-box",
+              "display": "block",
+              "height": "initial",
+              "margin": 0,
+              "maxWidth": "100%",
+              "opacity": 1,
+              "padding": 0,
+              "width": "initial",
+            }
+          }
+        >
+          <img
+            alt=""
+            aria-hidden={true}
+            src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27246%27%20height=%27131%27/%3e"
+            style={
+              Object {
+                "background": "none",
+                "border": 0,
+                "display": "block",
+                "height": "initial",
+                "margin": 0,
+                "maxWidth": "100%",
+                "opacity": 1,
+                "padding": 0,
+                "width": "initial",
+              }
+            }
+          />
+        </span>
+        <img
+          alt="chainwhiz logo"
+          className="logo"
+          data-nimg="intrinsic"
+          decoding="async"
+          onError={[Function]}
+          onLoad={[Function]}
+          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+          style={
+            Object {
+              "border": "none",
+              "bottom": 0,
+              "boxSizing": "border-box",
+              "display": "block",
+              "height": 0,
+              "left": 0,
+              "margin": "auto",
+              "marginLeft": "1vw",
+              "maxHeight": "100%",
+              "maxWidth": "100%",
+              "minHeight": "100%",
+              "minWidth": "100%",
+              "objectFit": "cover",
+              "objectPosition": undefined,
+              "padding": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+              "width": 0,
+            }
+          }
+        />
+        <noscript>
+          <img
+            alt="chainwhiz logo"
+            className="logo"
+            data-nimg="intrinsic"
+            decoding="async"
+            loading="lazy"
+            src="/_next/image?url=%2Fimg.jpg&w=640&q=75"
+            srcSet="/_next/image?url=%2Fimg.jpg&w=256&q=75 1x, /_next/image?url=%2Fimg.jpg&w=640&q=75 2x"
+            style={
+              Object {
+                "border": "none",
+                "bottom": 0,
+                "boxSizing": "border-box",
+                "display": "block",
+                "height": 0,
+                "left": 0,
+                "margin": "auto",
+                "marginLeft": "1vw",
+                "maxHeight": "100%",
+                "maxWidth": "100%",
+                "minHeight": "100%",
+                "minWidth": "100%",
+                "objectFit": "cover",
+                "objectPosition": undefined,
+                "padding": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+                "width": 0,
+              }
+            }
+          />
+        </noscript>
+      </span>
+      <svg
+        className="menu"
+        data-testid="menuBar"
+        height="24"
+        onClick={[Function]}
+        version="1.1"
+        viewBox="0 0 24 24"
+        width="24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <title>
+          menu
+        </title>
+        <path
+          d="M3 6h18v2.016h-18v-2.016zM3 12.984v-1.969h18v1.969h-18zM3 18v-2.016h18v2.016h-18z"
+        />
+      </svg>
+      <div
+        className="options css-rkeaoz"
+      >
+        <div
+          className="linkContainer css-1ebv89b"
+        >
+          <p
+            className="chakra-text css-0"
+          >
+            <a
+              className="link"
+              href="https://app.chainwhiz.app/post"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+            >
+              Post a Bounty
+            </a>
+          </p>
+          <p
+            className="chakra-text css-0"
+          >
+            <a
+              className="link"
+              href="https://app.chainwhiz.app/solve"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+            >
+              Solve a Bounty
+            </a>
+          </p>
+          <p
+            className="chakra-text css-0"
+          >
+            <a
+              className="link"
+              href="https://app.chainwhiz.app/vote"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+            >
+              Vote on Solutions
+            </a>
+          </p>
+        </div>
+        <button
+          className="chakra-button button css-4obnhd"
+          onClick={[Function]}
+          type="button"
+        >
+          <p
+            className="chakra-text css-kwft98"
+          >
+            Connect
+            <br />
+            Wallet
+          </p>
+        </button>
+      </div>
+    </div>
+    <hr
+      className="divider"
+    />
+    <div
+      className="container css-cj56e0"
+    >
+      <p
+        className="chakra-text topText css-1o4t3xm"
+      >
+        Kickstart Your Journey in Web3
+      </p>
+      <p
+        className="chakra-text middleText css-9dr6vm"
+      >
+        Discover Bounties. Contribute to your favorite DAOs and Protocols. Earn in Crypto.
+      </p>
+      <div
+        className="btnContainer css-kr4k96"
+      >
+        <button
+          className="chakra-button css-562pl5"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          type="button"
+        >
+          Post a Bounty
+        </button>
+        <button
+          className="chakra-button css-157icch"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          type="button"
+        >
+          Start Solving Bounties
+        </button>
+        <button
+          className="chakra-button css-1ck32ae"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+          type="button"
+        >
+          Vote on Solutions
+        </button>
+      </div>
+      <p
+        className="chakra-text bottomText css-got0or"
+        role="dialog"
+      >
+        The mainnet is still a new product milestone. Report bugs and any improvements in our
+         
+        <span
+          style={
+            Object {
+              "color": "primaryColor",
+            }
+          }
+        >
+          <a
+            href="https://discord.com/invite/NjxUxWAfuz"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Discord
+          </a>
+        </span>
+      </p>
+    </div>
+    <hr
+      className="divider"
+    />
+    <div
+      className="container css-14uy4w5"
+    >
+      <div
+        className="descContainer css-1ab5cug"
+      >
+        <div
+          className="css-0"
+        >
+          <span
+            style={
+              Object {
+                "background": "none",
+                "border": 0,
+                "boxSizing": "border-box",
+                "display": "inline-block",
+                "height": "initial",
+                "margin": 0,
+                "maxWidth": "100%",
+                "opacity": 1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "relative",
+                "width": "initial",
+              }
+            }
+          >
+            <span
+              style={
+                Object {
+                  "background": "none",
+                  "border": 0,
+                  "boxSizing": "border-box",
+                  "display": "block",
+                  "height": "initial",
+                  "margin": 0,
+                  "maxWidth": "100%",
+                  "opacity": 1,
+                  "padding": 0,
+                  "width": "initial",
+                }
+              }
+            >
+              <img
+                alt=""
+                aria-hidden={true}
+                src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27246%27%20height=%27131%27/%3e"
+                style={
+                  Object {
+                    "background": "none",
+                    "border": 0,
+                    "display": "block",
+                    "height": "initial",
+                    "margin": 0,
+                    "maxWidth": "100%",
+                    "opacity": 1,
+                    "padding": 0,
+                    "width": "initial",
+                  }
+                }
+              />
+            </span>
+            <img
+              data-nimg="intrinsic"
+              decoding="async"
+              onError={[Function]}
+              onLoad={[Function]}
+              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+              style={
+                Object {
+                  "border": "none",
+                  "bottom": 0,
+                  "boxSizing": "border-box",
+                  "display": "block",
+                  "height": 0,
+                  "left": 0,
+                  "margin": "auto",
+                  "maxHeight": "100%",
+                  "maxWidth": "100%",
+                  "minHeight": "100%",
+                  "minWidth": "100%",
+                  "objectFit": undefined,
+                  "objectPosition": undefined,
+                  "padding": 0,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "width": 0,
+                }
+              }
+            />
+            <noscript>
+              <img
+                data-nimg="intrinsic"
+                decoding="async"
+                loading="lazy"
+                src="/_next/image?url=%2Fimg.jpg&w=640&q=75"
+                srcSet="/_next/image?url=%2Fimg.jpg&w=256&q=75 1x, /_next/image?url=%2Fimg.jpg&w=640&q=75 2x"
+                style={
+                  Object {
+                    "border": "none",
+                    "bottom": 0,
+                    "boxSizing": "border-box",
+                    "display": "block",
+                    "height": 0,
+                    "left": 0,
+                    "margin": "auto",
+                    "maxHeight": "100%",
+                    "maxWidth": "100%",
+                    "minHeight": "100%",
+                    "minWidth": "100%",
+                    "objectFit": undefined,
+                    "objectPosition": undefined,
+                    "padding": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                    "width": 0,
+                  }
+                }
+              />
+            </noscript>
+          </span>
+        </div>
+        <div
+          className="css-u05qm2"
+        >
+          <p
+            className="chakra-text desc css-0"
+          >
+            Chainwhiz is an open-source bounty marketplace connecting Web3 projects with builders and communities.
+          </p>
+        </div>
+        <div
+          className="css-1s069uh"
+        >
+          <p
+            className="chakra-text desc css-0"
+          >
+            Our mission is to build a transparent and community-centric bounty platform for scaling and forming communities.
+          </p>
+        </div>
+      </div>
+      <div
+        className="textContainer css-ug0mxw"
+      >
+        <div
+          className="css-3ouibg"
+        >
+          <p
+            className="chakra-text text css-0"
+          >
+            <a
+              className="link"
+              href="https://www.app.chainwhiz.app/"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+            >
+              Launch App
+            </a>
+          </p>
+          <p
+            className="chakra-text text css-0"
+            style={
+              Object {
+                "opacity": "0.4",
+              }
+            }
+          >
+            White Paper
+          </p>
+          <p
+            className="chakra-text text css-0"
+            style={
+              Object {
+                "opacity": "0.4",
+              }
+            }
+          >
+            Documentation
+          </p>
+          <p
+            className="chakra-text text css-0"
+          >
+            <a
+              className="link"
+              href="https://polygon.technology/"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+            >
+              Polygon Network
+            </a>
+          </p>
+          <p
+            className="chakra-text text css-0"
+          >
+            <a
+              className="link"
+              href="https://app.chainwhiz.app/Product_Guidelines.pdf"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+            >
+              Product Guidelines
+            </a>
+          </p>
+          <p
+            className="chakra-text text css-0"
+            style={
+              Object {
+                "opacity": "0.4",
+              }
+            }
+          >
+            Brand Kit
+          </p>
+        </div>
+        <div
+          className="css-3ouibg"
+        >
+          <p
+            className="chakra-text text css-0"
+          >
+            <a
+              className="link"
+              href="https://youtu.be/Qfh-k9P8ZPI"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+            >
+              Collective Intelligence
+            </a>
+          </p>
+          <p
+            className="chakra-text text css-0"
+          >
+            <a
+              className="link"
+              href="https://medium.com/articles-more-every-week"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+            >
+              Articles
+            </a>
+          </p>
+          <p
+            className="chakra-text text css-0"
+          >
+            <a
+              className="link"
+              href="https://chainwhiz.substack.com/"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+            >
+              Newsletter
+            </a>
+          </p>
+          <p
+            className="chakra-text text css-0"
+          >
+            <a
+              className="link"
+              href="https://app.chainwhiz.app/Disclaimer.pdf"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+            >
+              Disclaimer
+            </a>
+          </p>
+          <p
+            className="chakra-text text css-0"
+          >
+            <a
+              className="link"
+              href="https://app.chainwhiz.app/Chainwhiz_Platform_FAQs.pdf"
+              onClick={[Function]}
+              onMouseEnter={[Function]}
+            >
+              FAQs
+            </a>
+          </p>
+          <p
+            className="chakra-text text css-0"
+            style={
+              Object {
+                "color": "primaryColor",
+              }
+            }
+          >
+            hello@chainwhiz.app
+          </p>
+        </div>
+      </div>
+      <div
+        className="css-jv1kw8"
+      >
+        <div
+          className="socials css-gdjd63"
+        >
+          <div
+            className="footerImage css-1k0gv8u"
+          >
+            <span
+              style={
+                Object {
+                  "background": "none",
+                  "border": 0,
+                  "boxSizing": "border-box",
+                  "display": "inline-block",
+                  "height": "initial",
+                  "margin": 0,
+                  "maxWidth": "100%",
+                  "opacity": 1,
+                  "overflow": "hidden",
+                  "padding": 0,
+                  "position": "relative",
+                  "width": "initial",
+                }
+              }
+            >
+              <span
+                style={
+                  Object {
+                    "background": "none",
+                    "border": 0,
+                    "boxSizing": "border-box",
+                    "display": "block",
+                    "height": "initial",
+                    "margin": 0,
+                    "maxWidth": "100%",
+                    "opacity": 1,
+                    "padding": 0,
+                    "width": "initial",
+                  }
+                }
+              >
+                <img
+                  alt=""
+                  aria-hidden={true}
+                  src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e"
+                  style={
+                    Object {
+                      "background": "none",
+                      "border": 0,
+                      "display": "block",
+                      "height": "initial",
+                      "margin": 0,
+                      "maxWidth": "100%",
+                      "opacity": 1,
+                      "padding": 0,
+                      "width": "initial",
+                    }
+                  }
+                />
+              </span>
+              <img
+                alt="footerImage"
+                data-nimg="intrinsic"
+                decoding="async"
+                onError={[Function]}
+                onLoad={[Function]}
+                src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                style={
+                  Object {
+                    "border": "none",
+                    "bottom": 0,
+                    "boxSizing": "border-box",
+                    "display": "block",
+                    "height": 0,
+                    "left": 0,
+                    "margin": "auto",
+                    "maxHeight": "100%",
+                    "maxWidth": "100%",
+                    "minHeight": "100%",
+                    "minWidth": "100%",
+                    "objectFit": undefined,
+                    "objectPosition": undefined,
+                    "padding": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                    "width": 0,
+                  }
+                }
+              />
+              <noscript>
+                <img
+                  alt="footerImage"
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  loading="lazy"
+                  src="/_next/image?url=%2Fimg.jpg&w=48&q=75"
+                  srcSet="/_next/image?url=%2Fimg.jpg&w=32&q=75 1x, /_next/image?url=%2Fimg.jpg&w=48&q=75 2x"
+                  style={
+                    Object {
+                      "border": "none",
+                      "bottom": 0,
+                      "boxSizing": "border-box",
+                      "display": "block",
+                      "height": 0,
+                      "left": 0,
+                      "margin": "auto",
+                      "maxHeight": "100%",
+                      "maxWidth": "100%",
+                      "minHeight": "100%",
+                      "minWidth": "100%",
+                      "objectFit": undefined,
+                      "objectPosition": undefined,
+                      "padding": 0,
+                      "position": "absolute",
+                      "right": 0,
+                      "top": 0,
+                      "width": 0,
+                    }
+                  }
+                />
+              </noscript>
+            </span>
+          </div>
+          <div
+            className="css-1cua7fv"
+          >
+            <a
+              href="https://t.me/joinchat/wNfMm0mKzlBiNGNl"
+            >
+              <span
+                style={
+                  Object {
+                    "background": "none",
+                    "border": 0,
+                    "boxSizing": "border-box",
+                    "display": "inline-block",
+                    "height": "initial",
+                    "margin": 0,
+                    "maxWidth": "100%",
+                    "opacity": 1,
+                    "overflow": "hidden",
+                    "padding": 0,
+                    "position": "relative",
+                    "width": "initial",
+                  }
+                }
+              >
+                <span
+                  style={
+                    Object {
+                      "background": "none",
+                      "border": 0,
+                      "boxSizing": "border-box",
+                      "display": "block",
+                      "height": "initial",
+                      "margin": 0,
+                      "maxWidth": "100%",
+                      "opacity": 1,
+                      "padding": 0,
+                      "width": "initial",
+                    }
+                  }
+                >
+                  <img
+                    alt=""
+                    aria-hidden={true}
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e"
+                    style={
+                      Object {
+                        "background": "none",
+                        "border": 0,
+                        "display": "block",
+                        "height": "initial",
+                        "margin": 0,
+                        "maxWidth": "100%",
+                        "opacity": 1,
+                        "padding": 0,
+                        "width": "initial",
+                      }
+                    }
+                  />
+                </span>
+                <img
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  onError={[Function]}
+                  onLoad={[Function]}
+                  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                  style={
+                    Object {
+                      "border": "none",
+                      "bottom": 0,
+                      "boxSizing": "border-box",
+                      "display": "block",
+                      "height": 0,
+                      "left": 0,
+                      "margin": "auto",
+                      "maxHeight": "100%",
+                      "maxWidth": "100%",
+                      "minHeight": "100%",
+                      "minWidth": "100%",
+                      "objectFit": undefined,
+                      "objectPosition": undefined,
+                      "padding": 0,
+                      "position": "absolute",
+                      "right": 0,
+                      "top": 0,
+                      "width": 0,
+                    }
+                  }
+                />
+                <noscript>
+                  <img
+                    data-nimg="intrinsic"
+                    decoding="async"
+                    loading="lazy"
+                    src="/_next/image?url=%2Fimg.jpg&w=48&q=75"
+                    srcSet="/_next/image?url=%2Fimg.jpg&w=32&q=75 1x, /_next/image?url=%2Fimg.jpg&w=48&q=75 2x"
+                    style={
+                      Object {
+                        "border": "none",
+                        "bottom": 0,
+                        "boxSizing": "border-box",
+                        "display": "block",
+                        "height": 0,
+                        "left": 0,
+                        "margin": "auto",
+                        "maxHeight": "100%",
+                        "maxWidth": "100%",
+                        "minHeight": "100%",
+                        "minWidth": "100%",
+                        "objectFit": undefined,
+                        "objectPosition": undefined,
+                        "padding": 0,
+                        "position": "absolute",
+                        "right": 0,
+                        "top": 0,
+                        "width": 0,
+                      }
+                    }
+                  />
+                </noscript>
+              </span>
+            </a>
+            <a
+              href="https://discord.com/invite/NjxUxWAfuz"
+            >
+              <span
+                style={
+                  Object {
+                    "background": "none",
+                    "border": 0,
+                    "boxSizing": "border-box",
+                    "display": "inline-block",
+                    "height": "initial",
+                    "margin": 0,
+                    "maxWidth": "100%",
+                    "opacity": 1,
+                    "overflow": "hidden",
+                    "padding": 0,
+                    "position": "relative",
+                    "width": "initial",
+                  }
+                }
+              >
+                <span
+                  style={
+                    Object {
+                      "background": "none",
+                      "border": 0,
+                      "boxSizing": "border-box",
+                      "display": "block",
+                      "height": "initial",
+                      "margin": 0,
+                      "maxWidth": "100%",
+                      "opacity": 1,
+                      "padding": 0,
+                      "width": "initial",
+                    }
+                  }
+                >
+                  <img
+                    alt=""
+                    aria-hidden={true}
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e"
+                    style={
+                      Object {
+                        "background": "none",
+                        "border": 0,
+                        "display": "block",
+                        "height": "initial",
+                        "margin": 0,
+                        "maxWidth": "100%",
+                        "opacity": 1,
+                        "padding": 0,
+                        "width": "initial",
+                      }
+                    }
+                  />
+                </span>
+                <img
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  onError={[Function]}
+                  onLoad={[Function]}
+                  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                  style={
+                    Object {
+                      "border": "none",
+                      "bottom": 0,
+                      "boxSizing": "border-box",
+                      "display": "block",
+                      "height": 0,
+                      "left": 0,
+                      "margin": "auto",
+                      "maxHeight": "100%",
+                      "maxWidth": "100%",
+                      "minHeight": "100%",
+                      "minWidth": "100%",
+                      "objectFit": undefined,
+                      "objectPosition": undefined,
+                      "padding": 0,
+                      "position": "absolute",
+                      "right": 0,
+                      "top": 0,
+                      "width": 0,
+                    }
+                  }
+                />
+                <noscript>
+                  <img
+                    data-nimg="intrinsic"
+                    decoding="async"
+                    loading="lazy"
+                    src="/_next/image?url=%2Fimg.jpg&w=48&q=75"
+                    srcSet="/_next/image?url=%2Fimg.jpg&w=32&q=75 1x, /_next/image?url=%2Fimg.jpg&w=48&q=75 2x"
+                    style={
+                      Object {
+                        "border": "none",
+                        "bottom": 0,
+                        "boxSizing": "border-box",
+                        "display": "block",
+                        "height": 0,
+                        "left": 0,
+                        "margin": "auto",
+                        "maxHeight": "100%",
+                        "maxWidth": "100%",
+                        "minHeight": "100%",
+                        "minWidth": "100%",
+                        "objectFit": undefined,
+                        "objectPosition": undefined,
+                        "padding": 0,
+                        "position": "absolute",
+                        "right": 0,
+                        "top": 0,
+                        "width": 0,
+                      }
+                    }
+                  />
+                </noscript>
+              </span>
+            </a>
+            <a
+              href="https://twitter.com/chainwhiz"
+            >
+              <span
+                style={
+                  Object {
+                    "background": "none",
+                    "border": 0,
+                    "boxSizing": "border-box",
+                    "display": "inline-block",
+                    "height": "initial",
+                    "margin": 0,
+                    "maxWidth": "100%",
+                    "opacity": 1,
+                    "overflow": "hidden",
+                    "padding": 0,
+                    "position": "relative",
+                    "width": "initial",
+                  }
+                }
+              >
+                <span
+                  style={
+                    Object {
+                      "background": "none",
+                      "border": 0,
+                      "boxSizing": "border-box",
+                      "display": "block",
+                      "height": "initial",
+                      "margin": 0,
+                      "maxWidth": "100%",
+                      "opacity": 1,
+                      "padding": 0,
+                      "width": "initial",
+                    }
+                  }
+                >
+                  <img
+                    alt=""
+                    aria-hidden={true}
+                    src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e"
+                    style={
+                      Object {
+                        "background": "none",
+                        "border": 0,
+                        "display": "block",
+                        "height": "initial",
+                        "margin": 0,
+                        "maxWidth": "100%",
+                        "opacity": 1,
+                        "padding": 0,
+                        "width": "initial",
+                      }
+                    }
+                  />
+                </span>
+                <img
+                  data-nimg="intrinsic"
+                  decoding="async"
+                  onError={[Function]}
+                  onLoad={[Function]}
+                  src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                  style={
+                    Object {
+                      "border": "none",
+                      "bottom": 0,
+                      "boxSizing": "border-box",
+                      "display": "block",
+                      "height": 0,
+                      "left": 0,
+                      "margin": "auto",
+                      "maxHeight": "100%",
+                      "maxWidth": "100%",
+                      "minHeight": "100%",
+                      "minWidth": "100%",
+                      "objectFit": undefined,
+                      "objectPosition": undefined,
+                      "padding": 0,
+                      "position": "absolute",
+                      "right": 0,
+                      "top": 0,
+                      "width": 0,
+                    }
+                  }
+                />
+                <noscript>
+                  <img
+                    data-nimg="intrinsic"
+                    decoding="async"
+                    loading="lazy"
+                    src="/_next/image?url=%2Fimg.jpg&w=48&q=75"
+                    srcSet="/_next/image?url=%2Fimg.jpg&w=32&q=75 1x, /_next/image?url=%2Fimg.jpg&w=48&q=75 2x"
+                    style={
+                      Object {
+                        "border": "none",
+                        "bottom": 0,
+                        "boxSizing": "border-box",
+                        "display": "block",
+                        "height": 0,
+                        "left": 0,
+                        "margin": "auto",
+                        "maxHeight": "100%",
+                        "maxWidth": "100%",
+                        "minHeight": "100%",
+                        "minWidth": "100%",
+                        "objectFit": undefined,
+                        "objectPosition": undefined,
+                        "padding": 0,
+                        "position": "absolute",
+                        "right": 0,
+                        "top": 0,
+                        "width": 0,
+                      }
+                    }
+                  />
+                </noscript>
+              </span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
