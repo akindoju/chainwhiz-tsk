@@ -1,0 +1,75 @@
+@import "../../styles/variables.module.scss";
+
+.container {
+  height: calc(100vh - (16vh + 8px));
+}
+
+.link {
+  &:hover {
+    color: $primary-color;
+  }
+}
+
+.text {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.2vw;
+  line-height: 40px;
+  text-align: center;
+  letter-spacing: 0.01em;
+  font-family: "Poppins", sans-serif;
+}
+
+.desc {
+  font-size: 16px;
+}
+
+@media only screen and (max-width: 1000px) {
+  .desc {
+    font-size: 15px;
+  }
+
+  .socials {
+    width: 60% !important;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .desc {
+    font-size: 13px;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+}
+
+@media only screen and (max-width: 700px) {
+  .desc {
+    font-size: 12x;
+  }
+
+  .container {
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    justify-content: space-around;
+  }
+
+  .socials {
+    flex-direction: row;
+  }
+
+  .text {
+    font-size: 15px;
+  }
+
+  .footerImage {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .text {
+    font-size: 12px;
+  }
+}

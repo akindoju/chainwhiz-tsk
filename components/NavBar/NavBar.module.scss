@@ -1,0 +1,28 @@
+@import "../../styles/variables.module.scss";
+
+.link {
+  &:hover {
+    color: $primary-color;
+  }
+}
+
+.menu {
+  display: none;
+  fill: $primary-color;
+  height: 60px;
+  width: 60px;
+}
+
+.options {
+  display: flex;
+}
+
+@media only screen and (max-width: 800px) {
+  .options {
+    display: none;
+  }
+
+  .menu {
+    display: flex;
+  }
+}
